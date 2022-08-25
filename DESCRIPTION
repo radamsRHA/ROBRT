@@ -1,0 +1,12 @@
+Package: ROBRT
+Title: R package for conducting robust phylogenetic regression
+Version: 0.0.0.9000
+Authors@R: 
+    person("Rich", "Adams", , "radamsrha@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: ROBRT includes a suite of functions for conducting L1, L2, M, S, and MM regression for phylogenetic data
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
