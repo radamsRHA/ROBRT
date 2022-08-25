@@ -6,7 +6,7 @@ output:
 
 ---
 # ROBRT: ROBust Regression on Trees
-**NOTE See the file https://github.com/radamsRHA/ROBRT/ROBRT.pdf for detailed instructions**
+**NOTE See the file https://github.com/radamsRHA/ROBRT/blob/master/ROBRT.pdf for detailed instructions**
 
 ## Installing R package ROBRT from github
 The R package ROBRT is freely available to download and distribute from github <https://github.com/radamsRHA/ROBRT/>. To install and load ROBRT, you must first install the R package `devtools`, 
